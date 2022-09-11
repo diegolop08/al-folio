@@ -2,96 +2,81 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Diego Lopez
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23th April 2001
     - name: Languages
-      value: English, German
+      value: Spanish (Native), English (C1)
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.S. Mechanical Engineering
+      institution: Universidad de La Sabana
+      year: 2024
+
+    - title: Bilingual High School Degree
+      institution: San Juan de Avila Bilingual School
+      year: 2018
+
+- title: Personal Skills
+  type: nested_list
+  contents:
+    - title: Soft
+      items:
+        - Adaptable to new environments.
+        - Natural leader
+        - Proactive self-starter
+        - Attentive learner
+        - Working under pressure
+        - Dedicated team member
+    - title: Hard
+      items:
+        - PLC programming.
+        - Design of mechanical commponents.
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Instrumentation Head
+      institution: Project Polaris - AREX
+      year: 2022 - Present
+      description: Leading the team in charge of conceptualizing,
+                   designing and selecting specific instrumentation
+                   to fulfill the science requirements for a student-
+                   led project which aim is to design and build a
+                   rover that could explore the surface of Saturn’s
+                   moon, Titan.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Leader of Electronics
+      institution: Unisabana Herons EV - Universidad de La Sabana
+      year: 2019 - 2023
+      description: In charge of leading the team responsible for
+                   designing, building and testing the electronic
+                   speed controller for an electric car participating in
+                   Shell Eco-Marathon where the aim is to build the
+                   most efficient vehicle competing along with team
+                   from all the continent.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
+        - Winner of the 2019 Excellence Scholarship awarded by Universidad de
+          La Sabana department of engineering.
+    - year: 2021
+      items:
+        - Winner of the 2021 Sabanahack hackathon awarded by Universidad de
+          La Sabana and Prodigious.
+    - year: 2018
+      items:
+        - IELTS 7.5 Overall Band Score
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Basketball, Hiking, Star Wars.
