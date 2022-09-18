@@ -23,54 +23,23 @@
 - title: Personal Skills
   type: nested_list
   contents:
-
     - title: Soft
       items:
-        - Adaptable to new environments
+        - Adaptable to new environments.
         - Natural leader
         - Proactive self-starter
         - Attentive learner
         - Working under pressure
         - Dedicated team member
-
     - title: Hard
       items:
-        - Design and draft of mechanical components
-        - Manufacture of mechinical pieces using CNC
-	  - PCB design
-	  - 3D printing
-	  - PLC programming
-	  - Microcontrollers programming
-
-    - title: Software
-      items:
-        - Autodesk Inventor
-	  - Fusion 360
-	  - LabView
-        - Altair Hyperworks
-	  - Microsoft Excel
-	  - TIA Portal
-	  - Github
-	  - KiCad
- 
-    - title: Programming
-      items:
-        - C/C++
-	  - Python
-	  - MATLAB
-	  - Ladder
+        - PLC programming.
+        - Design of mechanical commponents.
 
 
 - title: Experience
   type: time_table
   contents:
-
-    - title: Laboratory Intern
-      institution: Delta Lab - Tecnologico de Costa Rica
-      year: 2022 (2 months)
-      description: - Helped on the assembly of a Mobile Ground Station capable of
-			 Communicating with partner's satellites.
-			 - Evalution of a faulty Li-Ion battery pack 
 
     - title: Instrumentation Head
       institution: Project Polaris - AREX
@@ -89,23 +58,25 @@
                    designing, building and testing the electronic
                    speed controller for an electric car participating in
                    Shell Eco-Marathon where the aim is to build the
-                   most efficient vehicle competing along with teams
+                   most efficient vehicle competing along with team
                    from all the continent.
 
 - title: Honors and Awards
   type: time_table
   contents:
-
-    - year: 2021
-      items:
-        - Winner of the 2021 Sabanahack hackathon awarded by Universidad de
-          La Sabana and Prodigious.
-
     - year: 2018
       items:
         - Winner of the 2019 Excellence Scholarship awarded by Universidad de
           La Sabana department of engineering.
-    
+    - year: 2021
+      items:
+        - Winner of the 2021 Sabanahack hackathon awarded by Universidad de
+          La Sabana and Prodigious.
     - year: 2018
       items:
         - IELTS 7.5 Overall Band Score
+
+- title: Other Interests
+  type: list
+  contents:
+    - Basketball, Hiking, Star Wars.
