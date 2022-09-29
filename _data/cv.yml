@@ -36,29 +36,29 @@
     - title: Hard
       items:
         - Design and draft of mechanical components
-        - Manufacture of mechinical pieces using CNC
-	  - PCB design
-	  - 3D printing
-	  - PLC programming
-	  - Microcontrollers programming
+        - Manufacture of mechanical pieces using CNC
+        - PCB design
+        - 3D printing
+        - PLC programming
+        - Microcontrollers programming
 
     - title: Software
       items:
         - Autodesk Inventor
-	  - Fusion 360
-	  - LabView
+        - Fusion 360
+        - LabView
         - Altair Hyperworks
-	  - Microsoft Excel
-	  - TIA Portal
-	  - Github
-	  - KiCad
- 
+        - Microsoft Excel
+        - TIA Portal
+        - Github
+        - KiCad
+
     - title: Programming
       items:
         - C/C++
-	  - Python
-	  - MATLAB
-	  - Ladder
+        - Python
+        - MATLAB
+        - Ladder
 
 
 - title: Experience
@@ -66,14 +66,14 @@
   contents:
 
     - title: Laboratory Intern
-      institution: Delta Lab - Tecnologico de Costa Rica
+      institution: Delta Lab - <a href="https://www.tec.ac.cr">Tecnologico de Costa Rica</a>
       year: 2022 (2 months)
-      description: - Helped on the assembly of a Mobile Ground Station capable of
-			 Communicating with partner's satellites.
-			 - Evalution of a faulty Li-Ion battery pack 
+      items:
+        - Helped on the assembly of a Mobile Ground Station capable of Communicating with partner's satellites.
+        - Evaluation of a faulty Li-Ion battery pack.
 
     - title: Instrumentation Head
-      institution: Project Polaris - AREX
+      institution: <a href="http://www.arexcr.com/projects/polaris/">Project Polaris</a> - <a href="http://www.arexcr.com">AREX</a>
       year: 2022 - Present
       description: Leading the team in charge of conceptualizing,
                    designing and selecting specific instrumentation
@@ -83,7 +83,7 @@
                    moon, Titan.
 
     - title: Leader of Electronics
-      institution: Unisabana Herons EV - Universidad de La Sabana
+      institution: Unisabana Herons EV - <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
       year: 2019 - 2023
       description: In charge of leading the team responsible for
                    designing, building and testing the electronic
@@ -98,14 +98,14 @@
 
     - year: 2021
       items:
-        - Winner of the 2021 Sabanahack hackathon awarded by Universidad de
-          La Sabana and Prodigious.
+        - Winner of the 2021 Sabanahack hackathon awarded by <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
+          and <a href="https://www.prodigious.com">Prodigious</a>.
 
     - year: 2018
       items:
-        - Winner of the 2019 Excellence Scholarship awarded by Universidad de
-          La Sabana department of engineering.
-    
+        - Winner of the 2019 <a href="https://www.unisabana.edu.co/index.php?id=3181">Excellence Scholarship</a>
+          awarded by Universidad de La Sabana department of engineering.
+
     - year: 2018
       items:
         - IELTS 7.5 Overall Band Score
