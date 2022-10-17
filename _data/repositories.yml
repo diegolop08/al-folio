@@ -2,10 +2,7 @@ github_users:
   - diegolop08
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - diegolop08/diegolop08.github.io
+  - diegolop08/IVDR_visualizer
+  - diegolop08/OBD2-ESP32-reader
+  - diegolop08/IVDR
