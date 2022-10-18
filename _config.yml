@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 # code highlighter theme
 highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: fruity    # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: github    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: gruvbox_light       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -229,8 +229,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Lopez-Guerrero]
-  first_name: [Diego, A.]
+  last_name: [Lopez, Lopez Guerrero, Lopez-Guerrero, Lopez G.]
+  first_name: [Diego, Diego A., D. A., D.]
 
   style: apa
   locale: en
@@ -256,8 +256,8 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 4  # leave blank to always show all authors
-more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
+max_author_limit: 3  # leave blank to always show all authors
+more_authors_animation_delay: 5  # more authors are revealed on click using animation; smaller delay means faster animation
 
 
 # -----------------------------------------------------------------------------

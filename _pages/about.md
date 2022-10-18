@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Engineering Student, Universidad de La Sabana, Colombia
+subtitle: Mechanical Engineering Student
 
 profile:
   align: right
