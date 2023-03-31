@@ -15,6 +15,7 @@
     - title: B.S. Mechanical Engineering
       institution: Universidad de La Sabana
       year: 2024
+      GPA: 3.46/4.00
 
     - title: Bilingual High School Degree
       institution: San Juan de Avila Bilingual School
@@ -41,6 +42,8 @@
         - 3D printing
         - PLC programming
         - Microcontrollers programming
+        - Machine Learning
+        - FEA
 
     - title: Software
       items:
@@ -52,6 +55,10 @@
         - TIA Portal
         - Github
         - KiCad
+        - Hyperworks
+        - Linux
+        - Microsoft Office Suite (Excel, Word, Porwer Bi)
+        - LATEX
 
     - title: Programming
       items:
@@ -74,22 +81,22 @@
     - title: Instrumentation Head
       institution: <a href="http://www.arexcr.com/projects/polaris/">Project Polaris</a> - <a href="http://www.arexcr.com">AREX</a>
       year: 2022 - Present
-      description: Leading the team in charge of conceptualizing,
-                   designing and selecting specific instrumentation
-                   to fulfill the science requirements for a student-
-                   led project which aim is to design and build a
-                   rover that could explore the surface of Saturn’s
-                   moon, Titan.
+      items:
+        - Leading the team in charge of conceptualizing, designing and selecting specific instrumentation to fulfill the science requirements for a student-led project which aim is
+          to design and build a rover that could explore the surface of Saturn's moon, Titan.
+      
+        - Coauthor and selected speaker of the paper 'Creating a Terrestrial Rover Prototype for a Titan Rover Concept' presented at the International Astronautical Congress (IAC) 2022.
 
     - title: Leader of Electronics
       institution: Unisabana Herons EV - <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
       year: 2019 - 2023
-      description: In charge of leading the team responsible for
-                   designing, building and testing the electronic
-                   speed controller for an electric car participating in
-                   Shell Eco-Marathon where the aim is to build the
-                   most efficient vehicle competing along with teams
-                   from all the continent.
+      items:
+        - In charge of leading the team responsible for designing, building and testing the electronic speed controller for an electric car participating in Shell Eco-Marathon where
+          the aim is to build the most efficient vehicle competing along with teams from all the continent.
+        - Received an honorific mention for the innovative technical design at Shell Eco-Marathon Brazil 2022.
+        - Contributed using Autodesk Inventor to produce the design and Fusion 360 for CNC routing
+        - Collaborated to manufacture carbon fiber bodywork and additional parts for the vehicle using the wet lay-up method.
+
 
 - title: Honors and Awards
   type: time_table
