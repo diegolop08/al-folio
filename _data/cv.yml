@@ -1,8 +1,9 @@
 - title: General Information
-- description: For pdf file, click on the pdf icon above
   type: map
   contents:
     - name: Full Name
+      value: Diego Alfonso Lopez Guerrero
+    - name: Preferred name
       value: Diego Lopez
     - name: Date of Birth
       value: 23th April 2001
@@ -14,10 +15,8 @@
   type: time_table
   contents:
     - title: B.S. Mechanical Engineering
-      institution: Universidad de La Sabana
+      institution: <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a> (GPA 3.46/4.00)
       year: 2024
-      GPA: 3.46/4.00
-
     - title: Bilingual High School Degree
       institution: San Juan de Avila Bilingual School
       year: 2018
@@ -72,9 +71,18 @@
   type: time_table
   contents:
 
+    - title: Undergraduate Researcher
+      institution: Machine Learning Seminar - <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
+      year: Ongoing
+      description:
+         Collaborated with Professor <a href="https://scholar.google.com/citations?user=Q6kmQY0AAAAJ&hl">Felix Mohr</a>'s research group on the characterization of capacity
+          curves for neural networks. 
+          Utilized surrogate models to predict the accuracy of a specific configuration of hyperparameters varying number of layers and maximum units per layer.
+
+
     - title: Instrumentation Head
       institution: <a href="http://www.arexcr.com/projects/polaris/">Project Polaris</a> - <a href="http://www.arexcr.com">AREX</a>
-      year: March 2022 - March 2023
+      year: 2022 - 2023
       items:
         - Leading the team in charge of conceptualizing, designing and selecting specific instrumentation to fulfill the science requirements for a student-led project which aim is
           to design and build a rover that could explore the surface of Saturn's moon, Titan.
@@ -83,7 +91,7 @@
           presented at the International Astronautical Congress (IAC) 2022.
 
     - title: Leader of Electronics
-      institution: Unisabana Herons EV - <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
+      institution: <a href="https://www.instagram.com/uhev.col/">Unisabana Herons EV</a> - <a href="https://www.unisabana.edu.co">Universidad de La Sabana</a>
       year: 2019 - 2023
       items:
         - In charge of leading the team responsible for designing, building and testing the electronic speed controller for an electric car participating in Shell Eco-Marathon where
