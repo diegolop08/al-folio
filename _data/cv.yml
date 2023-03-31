@@ -1,4 +1,5 @@
 - title: General Information
+- description: For pdf file, click on the pdf icon above
   type: map
   contents:
     - name: Full Name
@@ -71,16 +72,9 @@
   type: time_table
   contents:
 
-    - title: Laboratory Intern
-      institution: Delta Lab - <a href="https://www.tec.ac.cr">Tecnologico de Costa Rica</a>
-      year: 2022 (2 months)
-      items:
-        - Helped on the assembly of a Mobile Ground Station capable of Communicating with partner's satellites.
-        - Evaluation of a faulty Li-Ion battery pack.
-
     - title: Instrumentation Head
       institution: <a href="http://www.arexcr.com/projects/polaris/">Project Polaris</a> - <a href="http://www.arexcr.com">AREX</a>
-      year: 2022 - Present
+      year: March 2022 - March 2023
       items:
         - Leading the team in charge of conceptualizing, designing and selecting specific instrumentation to fulfill the science requirements for a student-led project which aim is
           to design and build a rover that could explore the surface of Saturn's moon, Titan.
@@ -97,6 +91,13 @@
         - Received an honorific mention for the innovative technical design at Shell Eco-Marathon Brazil 2022.
         - Contributed using Autodesk Inventor to produce the design and Fusion 360 for CNC routing
         - Collaborated to manufacture carbon fiber bodywork and additional parts for the vehicle using the wet lay-up method.
+
+    - title: Laboratory Intern
+      institution: Delta Lab - <a href="https://www.tec.ac.cr">Tecnologico de Costa Rica</a>
+      year: 2022 (2 months)
+      items:
+        - Helped on the assembly of a Mobile Ground Station capable of Communicating with partner's satellites.
+        - Evaluation of a faulty Li-Ion battery pack.
 
 
 - title: Honors and Awards
