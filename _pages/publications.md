@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description:
 years: [2022]
-nav: false
-nav_order: 1
+nav: true
+nav_order: 4
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

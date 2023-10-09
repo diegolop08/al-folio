@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Diego A. Lopez G. # the website title (if blank, full name will be used instead)
-first_name: Diego A. Lopez G.
-middle_name:
-last_name:
-email: diegolopezg01@gmail.com
+title: Diego Lopez G. # the website title (if blank, full name will be used instead)
+first_name: Diego Lopez G.
+middle_name: Alfonso
+last_name: Lopez Guerrero
+email: diegolopezg@uky.edu
 description: 
 footer_text:
 
@@ -15,7 +15,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: diegolopez.live # the base hostname & protocol for your site
+url: diegologu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -64,7 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: diegolop08 # your GitHub user name
+github_username: diegologu # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: diegologu # your LinkedIn user name
@@ -116,7 +116,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -220,9 +220,9 @@ display_tags: [] # this tags will be dispalyed on the front page of your blog
 scholar:
 
   last_name: [Lopez, Lopez Guerrero, Lopez-Guerrero, Lopez G.]
-  first_name: [Diego, Diego A., D. A., D.]
+  first_name: [Diego, Diego A., D. A., D., Diego Alfonso]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
