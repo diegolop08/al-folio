@@ -3,7 +3,7 @@ layout: post
 title:  Glass Tilting Table
 date:   2021-11-12 16:55:55
 description: Redesign of a glass tilting table.
-tags: CAD PCB mechanical-design
+tags: CAD mechanical-design
 categories: Coursework
 ---
 
@@ -53,7 +53,7 @@ This is the video we created to illustrate each section of the machine. While th
 
 <hr>
 
-This is the blueprint for one of the parts of the machine. It was drawn using **Autosdesk Inventor**.
+This is the blueprint for one of the parts of the machine. It was drawn using **Autodesk Inventor**.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,7 +68,3 @@ This is the blueprint for one of the parts of the machine. It was drawn using **
 ## Final thoughts
 
 This project provided a tremendous opportunity for me to gain valuable experience in designing and selecting various mechanical components, such as cams, chains, and belts. Through the use of technical software and the application of theoretical knowledge, I was able to design a machine that effectively combined simplicity with functionality. I am pleased with the resulting design and the high-quality work that our team produced.
-
-    
-
-
